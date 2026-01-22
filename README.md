@@ -17,7 +17,7 @@ Currently focused on improving my Java skills and working on robotics-related an
 
 ---
 
-### 📊 GitHub
+### 📊 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Seqii&show_icons=true&hide_title=true)
 
 ---
