@@ -1,4 +1,4 @@
-no## I'm Gavin
+## I'm Gavin
 
 🎓 High school student | 🤖 Robotics & FRC | 💻 Software
 
