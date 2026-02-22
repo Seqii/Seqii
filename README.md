@@ -11,7 +11,7 @@ Currently focused on improving my Java skills and working on robotics-related an
 ---
 
 ### ⚙️ Tech
-- **Languages:** Java, Html
+- **Languages:** Java
 - **Tools:** Git, GitHub, VS Code
 - **Interests:** Robotics software, automation, problem-solving
 
