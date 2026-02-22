@@ -1,4 +1,4 @@
-## I'm Gavin
+no## I'm Gavin
 
 🎓 High school student | 🤖 Robotics & FRC | 💻 Software
 
@@ -14,11 +14,6 @@ Currently focused on improving my Java skills and working on robotics-related an
 - **Languages:** Java
 - **Tools:** Git, GitHub, VS Code
 - **Interests:** Robotics software, automation, problem-solving
-
----
-
-### 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Seqii&show_icons=true&hide_title=true)
 
 ---
 
