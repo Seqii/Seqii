@@ -5,8 +5,7 @@
 ---
 
 ### 🧩 About
-I like building things that mix **code + hardware**.  
-Currently focused on improving my Java skills and working on robotics-related and personal projects.
+I like coding for FRC and making random projects. I also enjoy wiring and building things.
 
 ---
 
