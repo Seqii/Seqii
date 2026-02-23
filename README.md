@@ -5,7 +5,8 @@
 ---
 
 ### 🧩 About
-I like coding for FRC and making random projects. I also enjoy wiring and building things.
+I like coding for FRC and making random projects.
+I also enjoy wiring and building things.
 
 ---
 
