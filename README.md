@@ -1,22 +1,21 @@
 ## I'm Gavin
 
-🎓 High school student | 🤖 Robotics & FRC | 💻 Software
+ High school student |  Robotics & FRC |  Software
 
 ---
 
-### 🧩 About
+### About
 I like coding for FRC and making random projects.
 I also enjoy wiring and building things.
 
 ---
 
-### ⚙️ Tech
+### Stuff
 - **Languages:** Java
 - **Tools:** Git, GitHub, VS Code
-- **Interests:** Robotics software, automation, problem-solving
+- **Interests:** Robotics software, automation, electronics
 
 ---
 
-### 📬 Reach Me
-- GitHub: @Seqii
+### 📬 Contact
 - Email: gavin2noah@gmail.com
