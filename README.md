@@ -2,6 +2,7 @@
 
  High school student |  Robotics & FRC |  Software
 
+---
 
 ### About
 I like coding for FRC and making random projects.
