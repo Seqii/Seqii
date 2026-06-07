@@ -17,5 +17,5 @@ I also enjoy wiring and building things.
 
 ---
 
-### 📬 Contact
+### Contact
 - Email: gavin2noah@gmail.com
