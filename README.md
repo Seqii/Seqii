@@ -11,7 +11,7 @@ I also enjoy wiring and building things.
 ---
 
 ### Stuff
-- **Languages:** Java
+- **Languages:** Java, Python
 - **Tools:** Git, GitHub, VS Code
 - **Interests:** Robotics software, automation, electronics
 
